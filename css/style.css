@@ -5,17 +5,17 @@
 */
 
 body {
-	background-color: rosybrown;
+  background-color: rosybrown;
 }
 
 h1 {
-	background-color: rgb(187, 93, 112);
-	color: hsl(50, 100%, 50%);
+  background-color: rgb(187 93 112);
+  color: hsl(50deg 100% 50%);
 	padding: 40px;
 	text-align: center;
 }
 
 p {
-	background-color: #9c3a3a;
-  color: #fff;
+	background-color: #bf7894;
+  color: #ffeb6b;
 }
